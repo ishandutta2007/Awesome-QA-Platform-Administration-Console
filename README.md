@@ -127,9 +127,9 @@ Self-hosted, community-driven QA Platform Administration Console tools and test 
 
 ### 🌟 Open-Source Platforms Star Ranking
 
-*Sorted descending by GitHub star count.*
+*Sorted descending by GitHub Stars_Count.*
 
-| Platform | Stars | Tech Stack | License | Primary Focus |
+| Platform | GitHub_Stars | Tech Stack | License | Primary Focus |
 | :--- | :--- | :--- | :--- | :--- |
 | **[DeviceFarmer / STF](https://github.com/DeviceFarmer/stf)** | [![Stars](https://img.shields.io/github/stars/DeviceFarmer/stf?style=social&color=white)](https://github.com/DeviceFarmer/stf/stargazers) | Node.js / RethinkDB / ZeroMQ | Apache-2.0 | Remote Android device farm management & browser console |
 | **[ReportPortal](https://github.com/reportportal/reportportal)** | [![Stars](https://img.shields.io/github/stars/reportportal/reportportal?style=social&color=white)](https://github.com/reportportal/reportportal/stargazers) | Java / Spring / React / PostgreSQL | Apache-2.0 | Enterprise AI-powered centralized test ops & analytics hub |
