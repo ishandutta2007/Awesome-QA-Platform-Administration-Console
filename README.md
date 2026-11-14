@@ -10,10 +10,12 @@
 >
 > 🌟 Star this repo if you find it useful! 🌟
 
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoCllor=whiee" alt="Discord" /></a>
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![Follow @ishandutta2007](https://img.shields.io/github/followers/ishandutta2007?style=social)](https://github.com/ishandutta2007)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 ---
 
@@ -39,6 +41,8 @@
   - [testrarc](#testrarc)
 - [📊 Architectural Comparison at a Glance](#-architectural-comparison-at-a-glance)
 - [🔍 SEO & Industry Keywords](#-seo--industry-keywords)
+- [💖 Support & Sponsor](#-support--sponsor)
+- [⭐ Star History](#-star-history)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
 
@@ -253,6 +257,24 @@ Self-hosted, community-driven QA Platform Administration Console tools and test 
 ## 🔍 SEO & Industry Keywords
 
 `QA Platform Administration Console` • `Device Cloud Management` • `Test Infrastructure Governance` • `Automated Testing Control Plane` • `Mobile Device Farm Administration` • `Sauce Labs Admin` • `Perfecto Device Console` • `Kobiton RBAC` • `Cypress Cloud Organization Management` • `OpenSTF` • `DeviceFarmer STF` • `Testkube Kubernetes Testing` • `ReportPortal TestOps` • `Kiwi TCMS` • `Test Case Management Admin Portal` • `Continuous Quality Assurance Governance` • `QA Concurrency Quotas`
+
+---
+
+## 💖 Support & Sponsor
+
+Thank you for checking out the **Awesome QA Platform Administration Console** list! If this curated resource has helped you or your organization discover tools and streamline QA infrastructure governance, please consider supporting the project:
+
+- ⭐ **Star** this repository to help others discover it!
+- 🍴 **Fork** and contribute new tools or updates!
+- 📢 **Share** it with fellow QA engineers, SDETs, and DevOps practitioners!
+- ☕ **Buy me a coffee / Sponsor:** Support ongoing maintenance via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007)
+
+[![Sponsor ishandutta2007](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=githubsponsors)](https://github.com/sponsors/ishandutta2007)
+
+---
+
+##  Star History
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-QA-Platform-Administration-Console&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-QA-Platform-Administration-Console&type=date&legend=top-left)
 
 ---
 
